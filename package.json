@@ -1,0 +1,20 @@
+{
+  "name": "makers-bank-test-js",
+  "version": "1.0.0",
+  "description": "Makers Bank Tech Test in Javascript - node.js",
+  "main": "app.js",
+  "author": "jackmcc08 <jackmcc08@gmail.com>",
+  "license": "UNLICENCSED",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js",
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^26.6.3",
+    "mockdate": "^3.0.5"
+  }
+}
